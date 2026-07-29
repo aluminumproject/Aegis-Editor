@@ -54,7 +54,7 @@ public class Renderer {
 
     public void renderHeader(int cols) {
         String left  = " Aegis Editor  V0.1";
-        String right = "Aegis Project\u2122 ";
+        String right = "Aluminum Project\u2122 ";
         int spaces   = cols - left.length() - right.length();
         if (spaces < 1) spaces = 1;
         String header = left + " ".repeat(spaces) + right;
