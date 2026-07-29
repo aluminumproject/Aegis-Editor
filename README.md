@@ -132,15 +132,13 @@ MIT — see `LICENSE`.
 
 If you find Aegis Editor useful, consider supporting development:
 
-**Bitcoin (BTC):**
+**Donate (BTC):**
 
 ```
 bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 ```
 
-*(Replace the address above with your own BTC address before publishing.)*
-
-Your support helps keep the Aegis Project open-source and actively maintained. Thank you!
+Your support helps keep the Aluminum Project open-source and actively maintained. Thank you!
 
 ---
 
